@@ -1,7 +1,7 @@
 function General () {
-    const name = "Filip Topalovski";
-    const email = "ftopalovski@gmail.com";
-    const phone = "905-746-5088"
+    const name = "gasdg asdg";
+    const email = "ffafs@gmail.com";
+    const phone = "45325435534"
 
     return <>
         <div>

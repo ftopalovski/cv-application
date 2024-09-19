@@ -5,7 +5,7 @@ function General () {
 
     return <>
         <div>
-            <h1>General Information</h1>
+            <h1>General Information:</h1>
             <ul>
                 <li>Name: {name}</li>
                 <li>E-mail: {email}</li>
